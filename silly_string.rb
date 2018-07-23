@@ -3,7 +3,7 @@
 
 word = "shopping"
 
-puts "My favorite word is" + word
+puts "My favorite word is " + word
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
